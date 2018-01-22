@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //adding commment and change to main class
+            int test = 1;
         }
     }
 }
